@@ -1,6 +1,6 @@
 tf code :
 provider "google" {
-  project = "upgradlabs-1749198428274"  # Replace with your actual project ID
+  project = "upgradlabs-1749645482108"  # Replace with your actual project ID
   region  = "us-central1"
   zone    = "us-central1-a"
 }
